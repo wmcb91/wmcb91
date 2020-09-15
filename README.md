@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on web apps at RTD Denver, [Epic or Ikon?](https://epicorikon.com), and [Groovie](https://www.grooviemovieapp.com)
+- 🔭 I’m currently working on web apps at RTD Denver, [Epic vs Ikon](https://epicorikon.com), and [Groovie](https://www.grooviemovieapp.com)
 - 🌱 I’m currently learning TypeScript, GraphQL, Flutter & Dart
 
 
