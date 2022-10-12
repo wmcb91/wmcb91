@@ -20,5 +20,4 @@ Here are some ideas to get you started:
 - 🏡 I’m currently working on web apps at RTD, [Epic vs Ikon](https://epicorikon.com), and [Meelancer](https://meelancer.io)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wmcb91&layout=compact)
 
