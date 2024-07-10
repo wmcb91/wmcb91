@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm Will 👋
 
-- 🏡 I’m currently working on web apps at RTD, [Epic vs Ikon](https://epicorikon.com), and [Meelancer](https://meelancer.io)
-
-
-
+- 🏡 I’m currently working a Senior Engineer day job and on my personal projects, [Epic vs Ikon](https://epicorikon.com), and [Meelancer](https://meelancer.io)
+- 🕰️ Previously worked:
+  - At RTD leading the development of [Next Ride](https://app.rtd-denver.com/).
+  - At General Assembly teaching future developers.
+  - In Boston as the only non PHD at an AI research company.
+  - As a farmer 🧑‍🌾.
