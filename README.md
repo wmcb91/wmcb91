@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 - 🕰️ Previously worked...
   - At RTD leading the development of [Next Ride](https://app.rtd-denver.com/).
   - At General Assembly teaching future developers.
-  - In Boston as the only non PHD at an AI research company.
+  - In Boston as the only non PhD at an AI research company.
   - As a farmer 🧑‍🌾.
