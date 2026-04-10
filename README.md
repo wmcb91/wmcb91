@@ -18,8 +18,12 @@ Here are some ideas to get you started:
 ### Hi there, I'm Will 👋
 
 - 🏡 I’m currently working a Senior Engineer day job and on some personal projects like [Epic vs Ikon](https://epicorikon.com).
+
+<!--
 - 🕰️ Previously worked...
+  - At Alterra Mtn Co creating a bet
   - At RTD leading the development of [Next Ride](https://app.rtd-denver.com/).
   - At General Assembly teaching future developers.
-  - In Boston as the only non PhD at an AI research company.
+  - At Boston Fusion as the only non PhD at an AI research company.
   - As a farmer 🧑‍🌾.
+-->
